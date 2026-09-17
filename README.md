@@ -17,8 +17,4 @@ I cut my teeth at global agencies like OMD and iProspect, joined [Basiq](https:/
 
 ---
 
-Off the clock you'll find me hanging with family & friends, playing cricket or at the beach.&nbsp;
-
-[![Compound Growth]()](https://compoundgrowth.au) [![Content Department]()](https://contentdepartment.au) [![LinkedIn]()](https://www.linkedin.com/in/benbocarro) [![Email]()](mailto:ben@compoundgrowth.au)
-https://compoundgrowth.au | https://contentdepartment.au | https://www.linkedin.com/in/benbocarro | mailto:ben@compoundgrowth.au
-&nbsp;
+Off the clock you'll find me hanging with family & friends, playing cricket or at the beach.
