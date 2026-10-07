@@ -2,7 +2,7 @@
 
 Founder of [Compound Growth](https://compoundgrowth.au) & [Content Department](https://contentdept.com.au/). We work with founders with more ambition than patience.
 
-By day I'm a fractional CMO. After hours I wire up the unglamorous machinery that makes the marketing pay its way: voice agents that qualify leads, bots that book appointments, reactivation flows that coax a long-dormant CRM back to life. This GitHub is where that tinkering gets written down so other marketers can pinch it.
+By day I'm a [fractional CMO]([url](https://benbocarro.com/)). After hours I wire up the unglamorous machinery that makes the marketing pay its way: voice agents that qualify leads, bots that book appointments, reactivation flows that coax a long-dormant CRM back to life. This GitHub is where that tinkering gets written down so other marketers can pinch it.
 
 I cut my teeth at global agencies like OMD and iProspect, joined [Basiq](https://basiq.io) early and stuck around through its Series A and acquisition, and have guest lectured at London Business School and the University of Sydney.
 
@@ -10,10 +10,11 @@ I cut my teeth at global agencies like OMD and iProspect, joined [Basiq](https:/
 
 ### Currently tinkering with
 
-- Building a handful of companies in the leanest way possible, assisted by my AI pals  
-- Coding an agentic OS for both Content Department  
+- Building a handful of companies in the leanest way possible, assisted by my AI pals
+- [Bottomless Brunch directory](https://bottomlessbrunch.co/)
+- Coding an OS for Content Department that will run our end-to-end content agency operations
 - Marketing creative and message feedback agent that quizzes both real user and synthetic audiences  
-- Outbound & reactivation plays for client databases
+- GTM engineering: Outbound & reactivation plays for client databases
 
 ---
 
