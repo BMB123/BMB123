@@ -2,7 +2,7 @@
 
 Founder of [Compound Growth](https://compoundgrowth.au) & [Content Department](https://contentdept.com.au/). We work with founders with more ambition than patience.
 
-By day I'm a [fractional CMO and Growth Marketer](https://benbocarro.com/). After hours I wire up the unglamorous machinery that makes the marketing pay its way: voice agents that qualify leads, bots that book appointments, reactivation flows that coax a long-dormant CRM back to life. This GitHub is where that tinkering gets written down so other marketers can pinch it.
+By day I'm a [fractional CMO and Growth Marketer](https://benbocarro.com/). After hours I wire up the unglamorous machinery that makes the marketing pay its way: creative pipelines that 10x output, bots that book appointments, reactivation flows that coax a long-dormant CRM back to life. This GitHub is where that tinkering gets written down so other marketers can pinch it.
 
 I cut my teeth at global agencies like OMD and iProspect, joined [Basiq](https://basiq.io) early and stuck around through its Series A and acquisition, and have guest lectured at London Business School and the University of Sydney.
 
